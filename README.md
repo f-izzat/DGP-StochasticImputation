@@ -11,6 +11,7 @@ TODO:
 - Rewrite demo.cpp
 - Remove optim
 - Add LBFGSB header-only
+- Add CMakeLists.txt
 
 References:
 
