@@ -1,6 +1,10 @@
 # DGP-StochasticImputation
 
-<img src="https://github.com/f-izzat/DGP-StochasticImputation/blob/main/2D-DGPSI-SS.png" width="48">
+<p align="center">
+  <img src="2D-DGPSI-SS.png" width="300" height="250">
+  <img src="2DPDF.png" width="400" height="250">
+</p>
+
 
 A C++ implementation of [1] Deep Gaussian Process with Stochastic Imputation. This code was written for my Masters thesis : "Modeling Non-Stationarity with Deep Gaussian Processes: Applications in Aerospace Engineering" [2]. The original Python implementation can be found in (https://github.com/mingdeyu/DGP).
 
