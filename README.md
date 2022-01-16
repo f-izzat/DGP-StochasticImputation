@@ -1,4 +1,7 @@
 # DGP-StochasticImputation
+
+<img src="https://github.com/f-izzat/DGP-StochasticImputation/blob/main/2D-DGPSI-SS.png" width="48">
+
 A C++ implementation of [1] Deep Gaussian Process with Stochastic Imputation. This code was written for my Masters thesis : "Modeling Non-Stationarity with Deep Gaussian Processes: Applications in Aerospace Engineering" [2]. The original Python implementation can be found in (https://github.com/mingdeyu/DGP).
 
 The library depends on several external (header-only) libraries, mainly: `Eigen`, `ThreadPool` and `optim` (https://github.com/kthohr/optim).
