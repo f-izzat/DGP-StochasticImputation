@@ -1,7 +1,7 @@
 # DGP-StochasticImputation
 
 <p align="center">
-  <img src="2D-DGPSI-SS.png" width="300" height="250">
+  <img src="2D-DGPSI-SS.png" width="350" height="250">
   <img src="2DPDF.png" width="400" height="250">
 </p>
 
