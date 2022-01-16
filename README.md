@@ -6,6 +6,12 @@ However, the main optimizer is an LBFFGSB which requires a Fortran compiler.
 
 The current code is a rough draft and hard to read, although can run. This repo is currently in progress.  
 
+TODO:
+
+- Rewrite demo.cpp
+- Remove optim
+- Add LBFGSB header-only
+
 References:
 
 [1] Ming, D., Williamson, D., and Guillas, S., “Deep Gaussian Process Emulation using Stochastic Imputation,” ArXiv, Vol.
