@@ -4,12 +4,12 @@ A C++ implementation of [1] Deep Gaussian Process with Stochastic Imputation. Th
 The library depends on several external (header-only) libraries, mainly: `Eigen`, `ThreadPool` and `optim` (https://github.com/kthohr/optim).
 However, the main optimizer is an LBFFGSB which requires a Fortran compiler.
 
-The current code is a rough draft and hard to read, although can run. This repo is currently in progress.  
+The current code is a rough draft.
 
 TODO:
 
 - Rewrite demo.cpp
-- Remove optim
+- Remove (or integrate Particle Swarm/Adam/ConjugateGrad optimizer) optim dependency
 - Add LBFGSB header-only
 - Add CMakeLists.txt
 
