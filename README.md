@@ -19,7 +19,7 @@ TODO:
 - Remove (or integrate Particle Swarm/Adam/ConjugateGrad optimizer) optim dependency
 - Add LBFGSB header-only
 - Add CMakeLists.txt
-- Implement /unsupported/Eigen/tensor operations for kernel expectations
+- Implement Eigen Tensor operations for further vectorization of kernel expectations
 
 References:
 
