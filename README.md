@@ -20,6 +20,7 @@ TODO:
 - Add LBFGSB header-only
 - Add CMakeLists.txt
 - Implement Eigen Tensor operations for further vectorization of kernel expectations
+- Implement automatic differentiation
 - Interface with Python using pybind11
 
 References:
